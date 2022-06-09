@@ -1,5 +1,4 @@
-# Budget--Tracker-PWA
-### Challenge 19
+# Budget-Tracker-PWA
 
 ## User Story
 - AS AN avid traveler
@@ -14,22 +13,21 @@
 - THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 ## Link to Code
-- http://github/jamesbelk0/Budget--Trakcer-PWA
+- http://github/jamesbelk0/Budget--Tracker-PWA
 
-## Link to Walk-Through Video
-- A link to the video can be found here [Youtube]()
+## Screenshot of the Budget Tracker
+- 
 
 ## Description
-1. Using an express server, create a localhost note taker that can create, save and delete notes. Using the 'Save' class from OOP to keep it more simpified (at least to me). 
-2. Api/HTML routes are split for ease of access if needing to change anything. 
+- This app will help the user keep track of their budget on the road! Quick and easy UI that gives a clear snapshot of where their account is currently. This app comes with offline capabilities so the user can still function and keep an eye out even if they are out of civilization or off the grid! To put a finer touch on the budget tracker the app can be downloaded to the users homescreen for an easier way to access their information. 
 
-## Usage
-- Start the 'Inquirer' prompt via "node server.js"
-- Go through prompts to find, update, add or remove any data! 
+## Installation
+- Node.js
+- Express.js
+- MongoDB
 
 ## Contributor
 - James Belk
-- Luis (Tutor) helped with some code structure.
 
 ## Questions
 If there are any issues or questions, please contact at:
