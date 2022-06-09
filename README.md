@@ -15,6 +15,9 @@
 ## Link to Code
 - http://github/jamesbelk0/Budget--Tracker-PWA
 
+## Link to Deployed Site (Heroku)
+- https://obscure-coast-43625.herokuapp.com/
+
 ## Screenshot of the Budget Tracker
 - ![Image of live site.](./public/assets/images/Budget-Tracker.PNG "Image of live site.")
 
@@ -25,6 +28,7 @@
 - Node.js
 - Express.js
 - MongoDB
+- Heroku
 
 ## Contributor
 - James Belk
