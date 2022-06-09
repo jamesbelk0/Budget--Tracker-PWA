@@ -16,7 +16,7 @@
 - http://github/jamesbelk0/Budget--Tracker-PWA
 
 ## Screenshot of the Budget Tracker
-- 
+- ![Image of live site.](./public/assets/images/Budget-Tracker.PNG "Image of live site.")
 
 ## Description
 - This app will help the user keep track of their budget on the road! Quick and easy UI that gives a clear snapshot of where their account is currently. This app comes with offline capabilities so the user can still function and keep an eye out even if they are out of civilization or off the grid! To put a finer touch on the budget tracker the app can be downloaded to the users homescreen for an easier way to access their information. 
